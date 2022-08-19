@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @codercurly
 - 👀 I’m interested in software
-- I can web site with admin dashboard
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 'gul.glylz98@gmail.com'
 
