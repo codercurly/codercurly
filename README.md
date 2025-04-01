@@ -1,14 +1,17 @@
 ## 👋 Hi, I’m @codercurly (Gül)
 
-I’m a self-taught Flutter developer with a strong interest in mobile UI/UX and building smooth cross-platform apps.  
-Currently, I’m working on personal projects and improving my skills every day.  
+I'm a Flutter developer with real-world experience building and publishing mobile applications.  
+I work with both BLoC and Provider for state management, and I’ve developed full-featured apps with backend integration using PHP and REST APIs.
 
-💡 Tech Stack:  
+📱 One of my social apps is live on the Play Store – built with Provider and a custom PHP backend.  
+I’m currently working on a proposal/project management app using BLoC.
+
+💡 Tech Stack:
 - Flutter & Dart  
-- Firebase, REST APIs  
+- BLoC, Provider  
+- Firebase, REST APIs, PHP  
 - Git & GitHub  
 
-📌 I’m open to junior developer roles, internships, and freelance collaborations.
+📌 Open to remote or freelance opportunities in mobile development.
 
-📫 Reach me at: gul.glylz98@gmail.com  
-
+📫 Reach me at: gul.glylz98@gmail.com
